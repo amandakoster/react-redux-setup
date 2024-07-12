@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^2.2.6",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -49,6 +50,6 @@
     "@types/redux-thunk": "^2.1.0"
   },
   "overrides": {
-  "nth-check": "^2.0.1"
-}
+    "nth-check": "^2.0.1"
+  }
 }
